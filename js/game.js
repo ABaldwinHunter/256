@@ -10,6 +10,31 @@ return _.shuffle(["0", "0","0","0","0","0", "0", "0", "0","0","0","2","0","2","0
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Game.prototype.loop = function(direction) {
 //   var self = this;
 //   if (!this.gameOver) {
