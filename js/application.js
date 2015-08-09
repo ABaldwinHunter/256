@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
   $('.new_game_button').on('click', function(){
-    newGame = new Game();
-    newGame.updateBoard();
+    newGame = new Game
+    newGame.updateBoard()
   })
 
   // var ways = ['left', 'right', 'up', 'down'];
