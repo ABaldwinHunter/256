@@ -20,6 +20,4 @@ ratings:
   - "**.js"
   - "**.jsx"
   - "**.rb"
-exclude_paths:
-- js/underscore.js
-- js/mousetrap.js
+exclude_paths: []
