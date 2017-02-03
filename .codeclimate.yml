@@ -16,10 +16,6 @@ engines:
     enabled: true
 ratings:
   paths:
-  - "**.css"
-  - "**.js"
-  - "**.jsx"
-  - "**.rb"
 exclude_paths:
 - js/underscore.js
 - js/mousetrap.js
