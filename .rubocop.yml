@@ -10,6 +10,13 @@ Lint/AmbiguousOperator:
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#parens-as-args'
   Enabled: true
 
+
+
+
+
+
+
+
 Lint/AmbiguousRegexpLiteral:
   Description: >-
                  Checks for ambiguous regexp literals in the first argument of
