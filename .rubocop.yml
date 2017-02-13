@@ -519,13 +519,6 @@ Style/CommandLiteral:
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#percent-x'
   Enabled: false
 
-Style/CommentAnnotation:
-  Description: >-
-                 Checks formatting of special comments
-                 (TODO, FIXME, OPTIMIZE, HACK, REVIEW).
-  StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#annotate-keywords'
-  Enabled: false
-
 Style/CommentIndentation:
   Description: 'Indentation of comments.'
   Enabled: false
