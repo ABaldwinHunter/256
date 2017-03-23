@@ -4,6 +4,7 @@ engines:
     enabled: false
   duplication:
     enabled: true
+    channel: cronopio
     config:
       languages:
       - ruby
