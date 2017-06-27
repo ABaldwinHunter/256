@@ -3,7 +3,7 @@ engines:
   csslint:
     enabled: false
   duplication:
-    enabled: false
+    enabled: true
     channel: cronopio
     config:
       languages:
